@@ -26,13 +26,11 @@ The F3 Brushed Octo V1 is an experimental flight controller designed to pilot Qu
 
 **Lost Model Alarm:** A small Buzzer with a low current draw (=<20mA) can be used in place of the VMON LED.  You can tie activation of this Buzzer to a switch on your Transmitter via the Beeper option, on the Cleanflight modes page.
 
-**Octo Configuration:**
-
-In order to use Octo. you must select the custom mixer option on the Cleanflight Configuration page. Physical motor outputs are self explanatory.
+**Octo Configuration:** In order to use Octo. you must select the custom mixer option on the Cleanflight Configuration page. Physical motor outputs are self explanatory.
 
 #### Build Files and Resources:
 
-Schematic, board design, and part list ➜ ![F3 Octo Brushed V1 ZIP](https://github.com/HumbleOne/Flight-Controllers/blob/master/Flight-Controllers/F3-V1/F3-Octo/F3-Octo-Brushed-SIDE-USB.zip?raw=true "F3 Octo Brushed V1 ZIP") 
+Schematic, board design, and part list ➜ [F3 Octo Brushed V1 ZIP](F3-Octo-Brushed-SIDE-USB.zip?raw=true "F3 Octo Brushed V1 ZIP") 
 
 This bare board can be made at ➜ [OSHpark](https://oshpark.com/shared_projects/XBq9epDI "OSHPark F3 Octo V1 Brushed")
 

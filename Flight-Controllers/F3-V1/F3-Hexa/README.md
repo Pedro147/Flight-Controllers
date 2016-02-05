@@ -24,7 +24,7 @@ The F3 Brushed Hexa is an experimental flight controller designed to pilot Quadc
 
 #### Build Files and Resources:
 
-Schematic, board design, and part list ➜ ![F3 Hexa Brushed V1 ZIP](https://github.com/HumbleOne/Flight-Controllers/blob/master/Flight-Controllers/F3-V1/F3-Hexa/F3-Hexa-Brushed-SIDE-USB.zip?raw=true "F3 Hexa Brushed V1 ZIP") 
+Schematic, board design, and part list ➜ [F3 Hexa Brushed V1 ZIP](F3-Hexa-Brushed-SIDE-USB.zip?raw=true "F3 Hexa Brushed V1 ZIP") 
 
 This bare board can be made at ➜ [OSHpark] (https://oshpark.com/shared_projects/keSVuM7G "OSHPark F3 Hexa Brushed V1")
 

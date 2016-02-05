@@ -1,7 +1,6 @@
 ## Narrow Classic Flight Controller
 The Classic Narrow is an experimental flight controller designed to pilot Quadcopters using 7mm-8.5mm brushed motors. It features an Atmel Atmega 32u4 processor, MPU6050 Gyro/Accelerometer,  built in 9.5A ESCs, and a built in Bind button for easy binding.
 ### Narrow Classic Example Picture
-(JMPR build pictured - Latest build uses tactile switches in place of jumpers)
 
 ![Classic Narrow](/docs/assets/images/Classic-Side-USB.jpg "Classic-Narrow")
 
@@ -23,7 +22,7 @@ The Classic Narrow is an experimental flight controller designed to pilot Quadco
 
 #### Build Files and Resources:
 
-Schematic, board design, and part list ➜ ![Narrow Classic 5V ZIP](https://github.com/HumbleOne/Flight-Controllers/blob/master/Flight-Controllers/Classic/Classic-Narrow-5V-SIDE-USB.zip?raw=true "Classic Narrow 5V ZIP") 
+Schematic, board design, and part list ➜ [Narrow Classic 5V ZIP](Classic-Narrow-5V-SIDE-USB.zip?raw=true "Classic Narrow 5V ZIP") 
 
 This bare board can be made at ➜ [OSHpark] (https://oshpark.com/shared_projects/2qDJlrGR "OSHPARK Narrow Classic")
 

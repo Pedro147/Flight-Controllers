@@ -1,6 +1,6 @@
 # AlienFlight
 
-| [Classic FC](https://github.com/HumbleOne/Flight-Controllers/tree/master/Flight-Controllers/Classic#narrow-classic-flight-controller) | [F3 Quad FC](https://github.com/HumbleOne/Flight-Controllers/tree/master/Flight-Controllers/F3-V1/F3-Quad#f3-quad-brushed-v1-flight-controller) | [F3 Hexa FC](https://github.com/HumbleOne/Flight-Controllers/tree/master/Flight-Controllers/F3-V1/F3-Hexa#f3-hexa-brushed-v1-flight-controller) | [F3 Octo FC](https://github.com/HumbleOne/Flight-Controllers/tree/master/Flight-Controllers/F3-V1/F3-Octo#f3-octo-brushed-v1-flight-controller) |
+| [Classic FC](/Flight-Controllers/Classic#narrow-classic-flight-controller) | [F3 Quad FC](/Flight-Controllers/F3-V1/F3-Quad#f3-quad-brushed-v1-flight-controller) | [F3 Hexa FC](/Flight-Controllers/F3-V1/F3-Hexa#f3-hexa-brushed-v1-flight-controller) | [F3 Octo FC](/Flight-Controllers/F3-V1/F3-Octo#f3-octo-brushed-v1-flight-controller) |
 
 ## Objective
 
